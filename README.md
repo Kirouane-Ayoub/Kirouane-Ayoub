@@ -2,8 +2,9 @@
 <h4 align="center">Computer Vision Engineer with 5+ years of experience in developing and deploying state-of-the-art computer vision solutions. Skilled in Python, TensorFlow, OpenCV, and deep learning frameworks. Proven track record of delivering successful projects in object detection, image classification, and object tracking. Strong background in mathematics and image processing. Passionate about using computer vision to improve automation and efficiency in various industries.</h4>
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ayoub-kirouane3/recent-activity/posts/](https://www.linkedin.com/in/ayoub-kirouane3/recent-activity/posts/)
+- 🌐 My portfolio : https://kirouane-ayoub.github.io
 
-- 📫 How to reach me **ayoub.kirouane.3@gmail.com**
+- 📫 My Email Address :  **ayoub.kirouane.3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
