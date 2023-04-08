@@ -2,7 +2,7 @@
 <h5 align="center">Looking for a visionary problem solver with a passion for turning complex computer vision challenges into elegant solutions? Look no further! With over 5 years of experience developing and deploying cutting-edge computer vision solutions, I bring a unique skill set that includes expertise in Python, TensorFlow, OpenCV, and deep learning frameworks. My track record of success spans a variety of areas, including object detection, image classification, and object tracking. I'm driven by a love for mathematics and image processing, and I'm always looking for new ways to leverage the power of computer vision to revolutionize industries and drive innovation. If you're looking for a top-notch Computer Vision Engineer who is dedicated to pushing the boundaries of what's possible, look no further than me!
 </h5>
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/ayoub-kirouane3/recent-activity/posts/](https://www.linkedin.com/in/ayoub-kirouane3/recent-activity/posts/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/ayoub-kirouane3/recent-activity/posts](https://www.linkedin.com/in/ayoub-kirouane3/recent-activity/posts/)
 - 🌐 My portfolio : https://kirouane-ayoub.github.io
 
 - 📫 My Email Address :  **ayoub.kirouane.3@gmail.com**
