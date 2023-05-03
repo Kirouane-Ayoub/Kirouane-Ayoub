@@ -3,8 +3,6 @@
 </h5>
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ayoub-kirouane3/recent-activity/posts](https://www.linkedin.com/in/ayoub-kirouane3/recent-activity/posts/)
-- 🌐 My portfolio : https://kirouane-ayoub.github.io
-
 - 📫 My Email Address :  **ayoub.kirouane.3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
