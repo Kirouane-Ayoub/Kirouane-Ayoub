@@ -1,11 +1,27 @@
-<h1 align="center">Hi 👋, I'm Kirouane Ayoub</h1>
-<h5 align="center">I am a highly skilled and motivated AI Engineer with a strong focus on computer vision, NLP, and machine learning. With over five years of experience creating and implementing cutting-edge solutions, I have a proven track record in Computer Vision and NLP projects. Proficient in a wide range of deep learning frameworks, including TensorFlow, PyTorch, and Keras, I am well-versed in developing and optimizing models for object detection, image classification, and text analysis. Additionally, I have expertise in da analysis and visualization techniques using tools such as NumPy, Pandas, Matplotlib, and Seaborn. Committed to leveraging the power of AI and ML to drive innovation and enhance decision-making, I am dedicated to applying my skills to solve complex problems and deliver impactful solutions.
-</h5>
+<h1 align="center">Hi, I'm Kirouane Ayoub</h1>
 
-- 📝 I regularly write articles  : 
+I am a highly skilled and motivated AI Engineer with a strong focus on computer vision, NLP, and machine
+learning. Over the past five years, I have demonstrated my proficiency in creating and implementing cutting-edge
+solutions, particularly in the realms of Computer Vision and NLP. My expertise extends to multiple frameworks,
+including TensorFlow, PyTorch, and Keras, with a deep understanding of their application in developing and
+optimizing models for computer vision and NLP tasks. I am also well-versed in data analysis and visualization
+techniques, utilizing tools such as NumPy, Pandas, Matplotlib, and Seaborn to extract insights from data.
+
+In addition to my core skills, I have experience working with emerging AI frameworks like LangChain and
+LlamaIndex, leveraging its unique capabilities to enhance chatbots and agents. I also have a keen interest in
+advanced techniques, including model merging, building AI models from scratch, model quantization, and model
+pruning, which enables efficient and resource-friendly AI deployments.
+
+Furthermore, I actively contribute to the field by creating diverse datasets for NLP and computer vision
+applications, ensuring that AI models are trained on representative and high-quality data. My dedication lies in
+harnessing the potential of AI and ML to drive innovation and improve decision-making across various domains.
+I am committed to using my expertise to tackle complex challenges and deliver impactful solutions in the ever-
+the evolving landscape of artificial intelligence.
+
+- I regularly write articles  : 
 - **here:** https://www.linkedin.com/in/ayoub-kirouane3/recent-activity/posts
 - **and here:**  https://www.linkedin.com/company/tuning-ai/posts/?feedView=articles
-- 📫 My Email Address: **ayoub.kirouane.3@gmail.com** or **ayoub.kirouane@tuning-ai.com**
+- **My Email Address**: **ayoub.kirouane.3@gmail.com** or **ayoub.kirouane@tuning-ai.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
