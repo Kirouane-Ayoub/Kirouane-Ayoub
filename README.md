@@ -22,6 +22,7 @@ the evolving landscape of artificial intelligence.
 - **here:** https://www.linkedin.com/in/ayoub-kirouane3/recent-activity/posts
 - **and here:**  https://www.linkedin.com/company/tuning-ai/posts/?feedView=articles
 - **My Email Address**: **ayoub.kirouane.3@gmail.com** or **ayoub.kirouane@tuning-ai.com**
+- **Check :** **[@Tuning](https://github.com/Tuning-AI/Tuning-AI)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
