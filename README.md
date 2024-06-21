@@ -2,12 +2,6 @@
 
 AI Enthusiast
 
-- I regularly write articles  : 
-- **here:** https://www.linkedin.com/in/ayoub-kirouane3/recent-activity/posts
-- **and here:**  https://www.linkedin.com/company/tuning-ai/posts/?feedView=articles
-- **My Email Address**: **ayoub.kirouane.3@gmail.com** or **ayoub.kirouane@tuning-ai.com**
-- **Check :** **[@Tuning](https://github.com/Tuning-AI/Tuning-AI)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ayoub_kirouane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayoub_kirouane" height="30" width="40" /></a>
