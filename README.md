@@ -1,22 +1,6 @@
 <h1 align="center">Hi, I'm Kirouane Ayoub</h1>
 
-I am a highly skilled and motivated AI Engineer with a strong focus on computer vision, NLP, and machine
-learning. Over the past five years, I have demonstrated my proficiency in creating and implementing cutting-edge
-solutions, particularly in the realms of Computer Vision and NLP. My expertise extends to multiple frameworks,
-including TensorFlow, PyTorch, and Keras, with a deep understanding of their application in developing and
-optimizing models for computer vision and NLP tasks. I am also well-versed in data analysis and visualization
-techniques, utilizing tools such as NumPy, Pandas, Matplotlib, and Seaborn to extract insights from data.
-
-In addition to my core skills, I have experience working with emerging AI frameworks like LangChain and
-LlamaIndex, leveraging its unique capabilities to enhance chatbots and agents. I also have a keen interest in
-advanced techniques, including model merging, building AI models from scratch, model quantization, and model
-pruning, which enables efficient and resource-friendly AI deployments.
-
-Furthermore, I actively contribute to the field by creating diverse datasets for NLP and computer vision
-applications, ensuring that AI models are trained on representative and high-quality data. My dedication lies in
-harnessing the potential of AI and ML to drive innovation and improve decision-making across various domains.
-I am committed to using my expertise to tackle complex challenges and deliver impactful solutions in the ever-
-the evolving landscape of artificial intelligence.
+AI Enthusiast
 
 - I regularly write articles  : 
 - **here:** https://www.linkedin.com/in/ayoub-kirouane3/recent-activity/posts
